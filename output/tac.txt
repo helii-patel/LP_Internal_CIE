@@ -1,0 +1,9 @@
+t0 = (null) * (null)
+t1 = (null) + t0
+(null) = t1
+t2 = (null) + (null)
+(null) = t2
+t3 = (null) + (null)
+(null) = t3
+t4 = (null) * (null)
+(null) = t4
